@@ -19,7 +19,7 @@ export default function Home() {
         <div className='pb-8'>
 
           <LandingSection/> 
-           <FeatureSection/>
+           {/* <FeatureSection/> */}
           <About/>
         </div>
       )}
